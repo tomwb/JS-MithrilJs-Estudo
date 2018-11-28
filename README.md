@@ -1,1 +1,5 @@
-# JS-MithrilJs-Estudo
+# Estudo MithrilJS
+
+Framework JS Mithril
+
+https://mithril.js.org/installation.html
